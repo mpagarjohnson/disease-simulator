@@ -53,7 +53,4 @@ NOTE: The /progression directory will overwrite every time the simulation
 is run, so be sure to move or rename your files if you do not want to lose
 them.
 
-I had a great time designing and implementing this project, and I hope
-you enjoy messing around with it!
-
 
